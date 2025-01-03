@@ -1,2 +1,2 @@
-Frontend changes has successfully done
+frontend changes has successfully done
 
